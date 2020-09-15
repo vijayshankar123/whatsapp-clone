@@ -1,0 +1,3 @@
+{
+  "MONGOURI": "mongodb+srv://user:1234@whatsapp-clone.2hxkl.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
